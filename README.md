@@ -6,7 +6,7 @@
 
 I am a self-taught software developer with an Advanced Diploma in Java (basic knowledge), growing up on a farm in Nigeria. Farming taught me how complex, unpredictable systems work i.e weather, soil, pests, markets and how small errors can lead to big consequences for farmers.
 
-As AI systems become more powerful and integrated into agriculture (crop advice tools, disease detection, yield prediction, autonomous systems), the risks of misalignment, hallucinations, robustness failures, or unintended harmful outputs become existential, especially for smallholder farmers in vulnerable regions like Nigeria, where food security is already fragile due to climate shocks, farmer-hearder clash, erratic weather, and limited resources.
+As AI systems become more powerful and integrated into agriculture (crop advice tools, disease detection, yield prediction, autonomous systems), the risks of misalignment, hallucinations, robustness failures, or unintended harmful outputs become existential, especially for smallholder farmers in vulnerable regions like Nigeria, where food security is already fragile due to climate shocks, farmer-herder clashes, erratic weather, and limited resources.
 
 This repository documents my journey learning **AI fundamentals**, **Python**, and **AI safety** from scratch. My focus is on building simple but practical tools that test AI systems in an **agriculture context**, inspired by problems like those in the paper *"Concrete Problems in AI Safety"* (avoiding side effects, reward hacking, scalable supervision, safe exploration, and distributional shift).
 
@@ -49,5 +49,5 @@ Started from zero AI knowledge in early April 2026. This is my public record of 
 
 **Built by Henry** — Farm boy | Java Developer | Aspiring AI Safety Contributor  
 Location: Nigeria  
-GitHub: [LakHrt]  
+GitHub: [[LakHrt](https://github.com/Lakhrt)]  
 "Protecting the systems that feed humanity starts with aligning the AI that supports them."
