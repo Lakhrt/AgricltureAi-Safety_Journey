@@ -1,4 +1,4 @@
-# AgricltureAi-Safety_Journey
+# AgricultureAi-Safety_Journey
 
 **From a Nigerian farm boy to exploring AI safety for global food security.**
 
